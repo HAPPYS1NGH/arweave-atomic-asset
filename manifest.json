@@ -1,0 +1,18 @@
+{
+  "manifest": "arweave/paths",
+  "version": "0.1.0",
+  "index": {
+    "path": "index.html"
+  },
+  "paths": {
+    "assets/index-70a28802.css": {
+      "id": "iPFc7b4fm1OZSF9uZNzyBhKd9S2Y_xlhZvLXN-PCGbY"
+    },
+    "index.html": {
+      "id": "pLxGBlkweEMikxvNZbcEJOwJr0FMOycnXxBy7e9oPD0"
+    },
+    "vite.svg": {
+      "id": "SDfjTNWWNr4On3IMzmHFoSZQdXVIYLxW-ePsS9IuxEc"
+    }
+  }
+}

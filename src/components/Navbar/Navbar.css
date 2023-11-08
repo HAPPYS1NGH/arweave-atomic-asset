@@ -1,0 +1,34 @@
+.header {
+  background: #f3f4f6;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  padding: 1rem 2rem;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2rem;
+}
+
+.wallet-button {
+  border: black 2px solid;
+  border-radius: 0.5rem;
+  height: 2.5rem;
+  padding: 0.5rem;
+  font-weight: 600;
+}
+.header a {
+  text-decoration: none;
+  color: black;
+}
+
+.connect {
+  display: flex;
+  margin-left: auto;
+}
+
+.special-btn {
+  font-size: 1.2rem;
+  background: none;
+  cursor: pointer;
+  font-weight: 900;
+  color: #1f2937;
+}
