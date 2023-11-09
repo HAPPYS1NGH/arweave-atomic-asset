@@ -62,7 +62,7 @@ function About() {
 			</p>
 			<p>Data Protocol: {tags?.DataProtocol}</p>
 			<p>
-				License: <a href={tags?.License} target="_blank">{tags?.License}</a>
+				License: <a href={tags?.License} target="_blank" rel="noreferrer"> {tags?.License}</a>
 			</p>
 		</div>
 	);

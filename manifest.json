@@ -5,14 +5,53 @@
     "path": "index.html"
   },
   "paths": {
+    "assets/@remix-run-1a0a2df6.js": {
+      "id": "ZUvraZ9XMmdD5BWK0yBtmq1EL3umkx3jSTf3OC6U0_4"
+    },
+    "assets/arconnect-725317a4.js": {
+      "id": "WlnCxZc-ER3GwLu6UnpHssen1gRz0zQlh2YdFwnqQZA"
+    },
+    "assets/arweave-b9cd54bf.js": {
+      "id": "tvkX0MLmvcDH5EeAV-JLOh9qO3pwOttGbBMAq7llpDQ"
+    },
+    "assets/arweavekit-84cebd87.js": {
+      "id": "6UdovGBi-Eou_UbXDMlSus_yUJ0HDJFVIGVXkht86jU"
+    },
+    "assets/base64-js-50a5cdf9.js": {
+      "id": "KyWNkalvUzYiRj1hbsJJ2ijxDmblUdrv0WGyurwPekg"
+    },
+    "assets/bignumber.js-15dc3154.js": {
+      "id": "IlhiMUrZTBP5hKAFSRGpGWDkhhkoX1SAZXY-q_egteI"
+    },
+    "assets/graphql-07d72a13.js": {
+      "id": "3kHDDx5cRTfB--S_3JiK3sY9ZkgLOK9U1ru4QhhDcPE"
+    },
+    "assets/index-6f4849cf.js": {
+      "id": "r37X6acteAkH1jNIqKL-R_tLibExHOBo2c3EczY9LxI"
+    },
     "assets/index-70a28802.css": {
-      "id": "iPFc7b4fm1OZSF9uZNzyBhKd9S2Y_xlhZvLXN-PCGbY"
+      "id": "jF1T2IPgG19lkLxq1BTEqp5mamWmCA_GWX68SgzV64U"
+    },
+    "assets/react-6960021f.js": {
+      "id": "bTvKVOTQhItQm92fwEnG4i2wF47I9eBwHG0bZ84Dfps"
+    },
+    "assets/react-dom-a0fd4c5c.js": {
+      "id": "xPIz_zGZXr-0EsdsPforV4KyvB8r68mod_nANmaWoEE"
+    },
+    "assets/react-router-c8450ebf.js": {
+      "id": "L0z1JPG7vIoyFG0uTKV1P6z9eQX3JoHY-kkHDS6jREU"
+    },
+    "assets/react-router-dom-a1d4850f.js": {
+      "id": "VFSXOR0EDlCnsAX7jgmJTaGMypVZI59gYInj_IrRsrU"
+    },
+    "assets/scheduler-765c72db.js": {
+      "id": "aarSR_q2U1Fc899oUJRaN97lqBncMgX3xLFubFEXb7A"
     },
     "index.html": {
-      "id": "pLxGBlkweEMikxvNZbcEJOwJr0FMOycnXxBy7e9oPD0"
+      "id": "IvPj8vX3qo1o1ZmNJE1eo01WXjUV8pT0Vl7l33HzGyQ"
     },
     "vite.svg": {
-      "id": "SDfjTNWWNr4On3IMzmHFoSZQdXVIYLxW-ePsS9IuxEc"
+      "id": "OI9CJEd70DGmAlYtjkRCGE7CKNKhgwMj2ib4BABvFRg"
     }
   }
 }

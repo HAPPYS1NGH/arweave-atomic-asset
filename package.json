@@ -10,10 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "arweave": "^1.14.4",
-    "arweave-wallet-kit": "^1.0.3",
     "arweavekit": "^1.5.1",
-    "cors": "^2.8.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.18.0"

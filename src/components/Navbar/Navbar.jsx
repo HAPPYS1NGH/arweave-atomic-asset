@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom'
 import './Navbar.css'
-import { ConnectButton } from 'arweave-wallet-kit'
 function Navbar() {
     return (
         <nav className="header">
@@ -18,7 +17,7 @@ function Navbar() {
             </div>
             <div className='connect'>
                 <div >
-                    <ConnectButton className='wallet-button' />
+
                 </div>
             </div>
         </nav>
