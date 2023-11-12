@@ -1,0 +1,18 @@
+name: publish-with-arns
+run-name: ${{ github.actor }} is deploying the app with arns registration
+on: [push]
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "18.x"
+      - run: npm install
+      - run: npm install -g ardrive-cli
+      - run: npm run deploy
+    env:
+      SEED: ${{ secrets.SEED }}
+      WALLET64: ${{ secrets.WALLET64 }}
+      GITAR_FOLDER_EID: ${{ secrets.FOLDER_EID }}
