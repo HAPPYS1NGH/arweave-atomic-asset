@@ -3,6 +3,8 @@ import dotenv from "dotenv"
 import { WarpFactory, defaultCacheOptions } from "warp-contracts"
 import Arweave from "arweave"
 import { execSync } from "child_process"
+import process from "process"
+import { Buffer } from "buffer"
 
 dotenv.config()
 
